@@ -116,4 +116,4 @@ Luego de realizar el ETL se cambiaron los nombres de las columnas de la siguient
    * PATRON DE RESISTENCIA: patron_resistencia,
    * HOSPITALIZACION: hospitalizacion,
    * DIAS HOSPITALIZACION MQ: dias_hosp_mq,
-   * DIAS HOSPITALIZACIÓN UPC: dias_hosp_upc
+   * DIAS HOSPITALIZACIÓN UPC: dias_hosp_upc.
